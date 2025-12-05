@@ -21,3 +21,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sitkihd&show_icons=true&locale=en&layout=compact" alt="sitkihd" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sitkihd" alt="sitkihd" /></a> </p>
+
+![snake gif](https://github.com/SITKIhd/SITKIhd/blob/output/github-contribution-grid-snake.gif)
